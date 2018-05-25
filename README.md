@@ -7,5 +7,6 @@
     - Controllers: Principal e unico controller da API, disponibilia a rota e acessa a camada de serviços;
     - Entities: Mapeamento das entidades (Teste,Questions e Options); 
     - Services: Camada de serviços que acessa o banco dados.
+- Paulo Eduardo - pauloems@yahoo.com.br    
 
 
