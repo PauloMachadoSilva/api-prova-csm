@@ -1,0 +1,1 @@
+CREATE SCHEMA `Conta_Corrente` DEFAULT CHARACTER SET utf8 ;
